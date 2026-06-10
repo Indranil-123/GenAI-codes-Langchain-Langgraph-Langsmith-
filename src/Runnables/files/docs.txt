@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning (ML) is a subset of AI that focuses on building systems that can learn from data and improve their performance over time without being explicitly programmed. Common types of machine learning include supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep Learning is a specialized subset of machine learning that uses neural networks with many layers (called deep neural networks). It has been particularly successful in areas such as image recognition, natural language preparing, and speech recognition.
+
+Natural Language Preparing (NLP) is a field of AI that focuses on the interaction between computers and human language. It enables machines to understand, interpret, and generate human language. Applications include chatbots, translation systems, and sentiment analysis.
+
+AI is widely used in various industries such as healthcare, finance, transportation, and education. For example, AI helps doctors diagnose diseases, enables fraud detection in banking, powers self-driving cars, and provides personalized learning experiences.
+
+Despite its advantages, AI also raises ethical concerns such as data privacy, bias in algorithms, and job displacement. Researchers and policymakers are working to ensure that AI is developed and used responsibly.
